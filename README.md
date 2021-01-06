@@ -1,6 +1,4 @@
-react-tmdb-app is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=react-tmdb-app"><img src="https://images.gitads.io/react-tmdb-app" alt="GitAds"/></a> 
+
 
 
 Hello, My Friends  
@@ -14,9 +12,5 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-If you have problem, feel free to ask me ^^ 
 
-You can watch the tutorial for this app.
-
-https://www.youtube.com/watch?v=VihRQ_uhHtE&t=3325s
 
